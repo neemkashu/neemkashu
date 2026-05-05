@@ -1,6 +1,6 @@
 ### Привет 👋
 
-Здесь находятся мои учебные проекты и задания, которые я выполняла в рамках обучения в 2021-2022 годах на курсах фронтендера [RS School](https://rs.school/) и [Школы Разработчки Интерфейсов](https://yandex.ru/yaintern/schools/frontend) от Яндекс, так же мелкие учебные репозитории
+Здесь находятся мои учебные проекты и задания, которые я выполняла в рамках обучения в 2022-2023 годах на курсах фронтендера [RS School](https://rs.school/) и [Школы Разработчки Интерфейсов](https://yandex.ru/yaintern/schools/frontend) от Яндекс, так же мелкие учебные репозитории
 
 <!--
 **neemkashu/neemkashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
